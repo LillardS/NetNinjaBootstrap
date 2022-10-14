@@ -30,3 +30,8 @@ body {
 .two{order: 2;}
 .three{order: 1;}
 .four{order: 0;}
+
+footer p {
+    display: flex;
+    justify-content: center;
+}

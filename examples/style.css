@@ -78,6 +78,11 @@ article h2 {
     margin: 10px 0;
 }
 
+footer p {
+    display: flex;
+    justify-content: center;
+}
+
 /* flex styles */
 
 nav ul.social {
